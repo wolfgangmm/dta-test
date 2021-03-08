@@ -1,0 +1,8 @@
+{
+  "name" : "dta",
+  "version" : "1.0.0",
+  "description" : "Deutsches Textarchiv",
+  "dependencies" : {
+    "@teipublisher/pb-components" : "1.17.1"
+  }
+}
